@@ -264,11 +264,11 @@ public class HindustaniSubParser implements Subparser {
 	/*
 	 * Test quick
 	 */
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		HindustaniSubParser par = new HindustaniSubParser();
 		par.parse("ni", null);
 		par.parse("ni<",null);
 		par.parse("ni>",null);
-	}
+	}*/
 
 }
